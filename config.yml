@@ -66,7 +66,7 @@ params:
           imageUrl: "profile_picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Akshay Bhat
+          imageTitle: Akshay Hegde
           buttons:
             - name: Papers
               url: papers/
@@ -102,7 +102,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Akshay Bhat"
+      text: "Akshay Hegde"
       icon: faviconM.ico
       iconHeight: 18
 
