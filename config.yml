@@ -61,14 +61,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Meghana Bhat
-          subtitle: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad. 
-                    My research interest is in Commutative algebra. In particular, 
-                    I work on problems related to Hilbert functions."
+          title: Akshay Hegde
+          subtitle: "I'm a PhD student in Mathematics"
           imageUrl: "profile_picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Meghana Bhat
+          imageTitle: Akshay Bhat
           buttons:
             - name: Papers
               url: papers/
@@ -90,11 +88,11 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:mbhat.math@gmail.com
+          url: mailto:akshaychipgi@gmail.com
         # - name: GitHub
         #   url: https://github.com/MeghanaBht
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/meghanamath
+        # - name: LinkedIn
+        # url: https://www.linkedin.com/in/meghanamath
            
 
     assets:
@@ -104,7 +102,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Meghana Bhat"
+      text: "Akshay Bhat"
       icon: faviconM.ico
       iconHeight: 18
 
