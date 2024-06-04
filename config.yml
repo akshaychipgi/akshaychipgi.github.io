@@ -63,7 +63,7 @@ params:
           enabled: true
           title: Akshay Hegde
           subtitle: "I'm a PhD student in Mathematics"
-          imageUrl: "profile_picture.jpeg"
+          imageUrl: "profile_picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Akshay Bhat
